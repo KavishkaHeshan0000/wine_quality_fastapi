@@ -57,7 +57,7 @@ Visit: [Wine Quality Prediction API Documentation](https://wine-quality-fastapi-
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/wine_quality_fastapi.git
+    git clone https://github.com/KavishkaHeshan0000/wine_quality_fastapi
     ```
 
 2. Navigate to the project directory:
